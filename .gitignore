@@ -1,0 +1,11 @@
+# do not commit these folders
+./idea
+.idea
+.idea/
+
+# local copy | staging | repository
+
+#local copy - any thing that you are working on
+# staging - any thing that you added
+# repository - any thing that is commited
+
